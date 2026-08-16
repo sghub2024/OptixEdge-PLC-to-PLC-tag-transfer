@@ -1,6 +1,7 @@
 # OptixEdge-PLC-to-PLC-tag-transfer
 OptixEdge PLC to PLC tag transfer using Netlogic C#
-//########################################################################
+//###########################################################################
+
  PLC2PLCTagTransfer - code used for headless transfer of multiple tags to 
  
  different PLC types (same CompactLogix PLC used in this example).
