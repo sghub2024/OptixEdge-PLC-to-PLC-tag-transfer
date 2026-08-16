@@ -11,5 +11,6 @@ OptixEdge PLC to PLC tag transfer using Netlogic C#
  Change the default CommDriver name (e.g., "RAEtherNet_IPStation1") as needed.
  
  Note: This code uses a PeriodicTask for headless transfer, which has transfer rate limitations.
- 
+ I am attaching file "PLC2PLCTagTransfer.cs" and you can copy this code and paste it on your 
+ OprtixEdge -> Runtime Netlogic created ".cs" file.
 //############################################################################
